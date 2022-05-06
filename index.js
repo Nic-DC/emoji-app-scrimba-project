@@ -1,4 +1,7 @@
-const myEmojis = ["👨‍💻", "⛷", "🍲"]
+// const myEmojis = ["👨‍💻", "⛷", "🍲"]
+// I added some emojis for the github section
+// where we create a second branch
+const myEmojis = ["👨‍💻", "⛷", "🍲", "🚁", "🛸", "🇷🇴"]
 
 function renderEmojis() {
     const emojiContainer = document.getElementById("emoji-container")
